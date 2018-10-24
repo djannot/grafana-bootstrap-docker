@@ -1,7 +1,7 @@
 {
   "name": "graphite",
   "type": "graphite",
-  "url": "http://grafana.marathon.l4lb.thisdcos.directory:80",
+  "url": "http://graphite.marathon.l4lb.thisdcos.directory:80",
   "access": "proxy",
   "isDefault": true,
   "basicAuth": true,
